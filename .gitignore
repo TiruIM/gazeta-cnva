@@ -24,7 +24,7 @@ yarn-debug.log*
 yarn-error.log*
 
 <<<<<<< HEAD
-/public/revista
+# /public/revista
 =======
-/public/revista
+# /public/revista
 >>>>>>> 6baa8c4244e5a785c93880ed22290ec6b272584d
